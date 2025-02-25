@@ -1,4 +1,4 @@
-# MAPPER REDUCER
+# MapReduce
 
 In this assignment, for each type of thread (mapper/reducer), I defined a specific data structure:
 
